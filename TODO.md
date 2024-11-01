@@ -1,19 +1,14 @@
 # TODO.md for Agricultural Data Analysis Project
 
 ## Data Preparation
-- [ ] Obtain the dataset and ensure it is properly loaded into the Jupyter Notebook.
+- [x] Obtain the dataset and ensure it is properly loaded into the Jupyter Notebook.
 - [ ] Clean the dataset: 
   - [ ] Handle missing values.
   - [ ] Check for and address any data inconsistencies.
   
 ## Exploratory Data Analysis (EDA)
-- [ ] Conduct exploratory data analysis to familiarize with the data.
+- [x] Conduct exploratory data analysis to familiarize with the data.
 - [ ] Generate at least five descriptive graphs to visualize key findings, including:
-  - [ ] Nitrogen vs. Product Type
-  - [ ] Phosphorus vs. Product Type
-  - [ ] Potassium vs. Product Type
-  - [ ] Temperature vs. Product Type
-  - [ ] Humidity vs. Product Type
 - [ ] Write a narrative summarizing the main findings from the EDA.
 
 ## Ideal Profile Analysis
