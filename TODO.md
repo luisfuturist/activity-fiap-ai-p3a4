@@ -10,7 +10,7 @@
 
 ## Descriptive Analysis
 
-- [ ] Generate at least five descriptive graphs to visualize key findings.
+- [x] Generate at least five descriptive graphs to visualize key findings.
 - [ ] Write a narrative summarizing the main findings from the EDA.
 
 ## Ideal Profile Analysis
