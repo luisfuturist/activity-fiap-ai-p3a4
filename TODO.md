@@ -11,29 +11,29 @@
 ## Descriptive Analysis
 
 - [x] Generate at least five descriptive graphs to visualize key findings.
-- [ ] Write a narrative summarizing the main findings from the EDA.
+- [x] Write a narrative summarizing the main findings from the EDA.
 
 ## Ideal Profile Analysis
 
-- [ ] Determine the “ideal profile” for soil and climate conditions for crop cultivation.
-- [ ] Compare the ideal profile with three selected products:
-  - [ ] Analyze and discuss preferences related to humidity, precipitation, temperature, nitrogen, phosphorus, and potassium levels.
-  - [ ] Utilize statistical analyses and visual representations to support findings.
+- [x] Determine the “ideal profile” for soil and climate conditions for crop cultivation.
+- [x] Compare the ideal profile with three selected products:
+  - [x] Analyze and discuss preferences related to humidity, precipitation, temperature, nitrogen, phosphorus, and potassium levels.
+  - [x] Utilize statistical analyses and visual representations to support findings.
 
 ## Predictive Modeling
 
-- [ ] Develop five predictive models using different algorithms, ensuring:
-  - [ ] Each model uses a distinct algorithm as outlined in Chapter 14.
-  - [ ] Follow best practices for machine learning projects (data splitting, feature selection, etc.).
-- [ ] Evaluate model performance using relevant metrics (e.g., accuracy, precision, recall).
+- [x] Develop five predictive models using different algorithms, ensuring:
+  - [x] Each model uses a distinct algorithm as outlined in Chapter 14.
+  - [x] Follow best practices for machine learning projects (data splitting, feature selection, etc.).
+- [x] Evaluate model performance using relevant metrics (e.g., accuracy, precision, recall).
 
 ## Report Writing
 
-- [ ] Document the entire analysis and modeling process in Markdown cells within the Jupyter Notebook.
-- [ ] Discuss findings, strengths, and limitations of the analysis and models.
+- [x] Document the entire analysis and modeling process in Markdown cells within the Jupyter Notebook.
+- [x] Discuss findings, strengths, and limitations of the analysis and models.
 
 ## Submission
 
-- [ ] Ensure the Jupyter Notebook is well-organized with executed code cells and written explanations.
-- [ ] Name the file according to the specified format: “<FullName>\_<RM>\_fase<Phase>\_cap<Chapter>.ipynb”
-- [ ] Submit the completed Jupyter Notebook by the deadline.
+- [x] Ensure the Jupyter Notebook is well-organized with executed code cells and written explanations.
+- [x] Name the file according to the specified format: “<FullName>\_<RM>\_fase<Phase>\_cap<Chapter>.ipynb”
+- [x] Submit the completed Jupyter Notebook by the deadline.
